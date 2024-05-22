@@ -1,0 +1,27 @@
+.dropbtn {
+    background-color: #eaa8da;
+    color: rgb(242, 233, 233);
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    margin-top: 50px;
+}
+.selected-prof {
+    width: 170px;
+    background-color: rgba(240, 248, 255, 0.423);
+    border: 2px solid #eaa8da;
+    margin-left: 70px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.prof {
+    margin: 5px;
+    width: 170px;
+    background-color: rgba(240, 248, 255, 0.423);
+    border: 2px solid #eaa8da;
+}
+.prof:hover {
+    background-color: bisque;
+}
